@@ -69,7 +69,7 @@ This project presents a comprehensive analysis of the US stock market and major 
 
 ├── README.md # Project documentation 
 
-├── data/ # Source and processed datasets (optional)
+├── data/ # Source and processed datasets
 
 ## Future Work
 - Focus on **percentage change analysis** for better normalized comparisons across different stocks and commodities.

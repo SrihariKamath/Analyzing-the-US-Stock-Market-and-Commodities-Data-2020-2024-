@@ -66,7 +66,9 @@ This project presents a comprehensive analysis of the US stock market and major 
 
 ## Repository Structure
 ├── US_Stock.ipynb # Main Jupyter Notebook containing the full analysis 
+
 ├── README.md # Project documentation 
+
 ├── data/ # Source and processed datasets (optional)
 
 ## Future Work
